@@ -28,3 +28,7 @@ p {
     box-shadow: 10px 10px 30px gray;
 }
 
+h5 {
+    font-family: 'Cinzel', Arial, Helvetica, sans-serif;
+    color: white;
+}
