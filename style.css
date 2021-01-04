@@ -32,3 +32,8 @@ h5 {
     font-family: 'Cinzel', Arial, Helvetica, sans-serif;
     color: white;
 }
+
+.hover:hover {
+    background-color:dimgray;
+    opacity: 0.5;
+}
