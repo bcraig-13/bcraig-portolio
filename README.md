@@ -1,10 +1,12 @@
 ## NAME
 
-*Brandon Craig
+Brandon Craig
 
 ## DESCRIPTION
 
-*This site is my portfolio. 
+This site is my portfolio. I've provided links to <a href="http://localhost:52330/bcraig-portolio/index.html" target="_blank">projects</a> I've worked on, my 
+<a href="https://www.linkedin.com/in/brandon-craig-4735b7203/" target="_blank">linkedin</a> profile, and my <a href="https://github.com/bcraig-13" target="_blank">GitHub</a> page.
+
 
 ## USAGE
 
