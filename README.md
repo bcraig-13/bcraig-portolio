@@ -1,7 +1,7 @@
 ## NAME
 
 Brandon Craig
-Deployed link: http://localhost:52330/bcraig-portolio/index.html
+Deployed link: https://bcraig-13.github.io/bcraig-portolio/
 
 ## DESCRIPTION
 
